@@ -9,7 +9,7 @@ flag=0;bots=0
 names=[]
 try:
     print("Importing Data from File...##",end=" ")
-    data=pd.read_csv('flowdata.csv')
+    data=pd.read_csv('../Data/flowdata.csv')
     flag=2
     print("Read DONE.\n")
 except FileNotFoundError:
