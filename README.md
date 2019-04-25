@@ -1,8 +1,8 @@
 # Detection-of-IOT-Botnet-Attacks
 The detection of Botnet attacks on different IOT Devices using various Machine Learning Models.
 **A snip of the original Data is in *Data* Folder.**
--For M1: *benign_traffic.csv* and *scan.csv*
--For M2: *flowdata.csv* and *flowdata.binetflow*
+* For M1: *benign_traffic.csv* and *scan.csv*
+* For M2: *flowdata.csv* and *flowdata.binetflow*
 
 >The project had preety ambigious results i.e. 100% accuracy in some cases. So, data from 2 completely different sources were used, just to make sure the models were good. Since, the data was completely different, 2 different models were required for this project.
 
