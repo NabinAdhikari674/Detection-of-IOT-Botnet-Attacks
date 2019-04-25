@@ -10,4 +10,4 @@ The data for **Model 2(CTU13)** is available on https://mcfp.weebly.com/the-ctu-
 
 The data provided in both sources is very huge **(UCI- about 3.1 GB, CTU-13 - about 74 GB extracted)**, so the data used is probably the snip of the original data of a IOT device or a single attack type and a benign traffic data
 
-## Data may not be uploaded yet because the data is in compressed form and is very large. So if data is available, it is probably the snip pf the original extracted data
+## Data may not be uploaded yet because the data is in compressed form and is very large. So if data is available, it is probably the snip of the original extracted data
