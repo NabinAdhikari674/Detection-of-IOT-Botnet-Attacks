@@ -7,8 +7,8 @@ from sklearn.utils import shuffle
 print("IMPORT DONE.\n")
 
 print("Reading Data...##",end=" ")
-cdata=pd.read_csv("benign_traffic.csv")
-scan=pd.read_csv("scan.csv")
+cdata=pd.read_csv("../Data/benign_traffic.csv")
+scan=pd.read_csv("../Data/scan.csv")
 print("Read SucessFull.\n")
 
 print(cdata)
